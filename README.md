@@ -3,8 +3,12 @@ Recognizing hand and body gestures with OpenCV and broadcast the image through Z
 
 ## Requirements:
 Python 3
+
 OpenCV
+
 MediaPipe
+
 pyVirtualCam
+
 Virtual Camera from OBS
 
